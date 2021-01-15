@@ -6,7 +6,7 @@ Hatum The Project (AKA หาทำ The Project) is a project that I made after 
 
 ### Time
 
-Start : 15 December 2021
+Start : 15 December 2020<br>
 End : 'a'
 
 ### GitHub reposotories in this project
@@ -17,3 +17,18 @@ End : 'a'
 - [google-api-python](https://github.com/HelloYeew/google-api-python)
 - [pixiv-api-python](https://github.com/HelloYeew/pixiv-api-python)
 - [vtuber-button](https://github.com/HelloYeew/vtuber-button)
+
+## Kasumi
+
+I dreaming to make this a bot a long time ago but due to my knowledge in coding and other purpose make me postpone this project. And from *Hatum The Project* I find a project that I want to make and I found an old repo of this Kasumi (It's getting deleted) so I want to use this time that I stuck in COVID and I have a lot of time on my computer (along with *Hatum The Project*)to continue make this Kasumi, a character from *BanG Dream!* that I love (but so many people hate this character 😥). She has many dream that so many people think it's nonsense like me. That's why I love this character so much!
+
+I want to make her alive so in fist phase I want to build a code from a ground with Pyhton (cuz I know it most) and if I know more about JS I will migrate this bot to other version.
+
+### Time
+
+Start : 16 January 2021<br>
+End : Eternity
+
+### GitHub reposotories
+- [Kasumi](https://github.com/HelloYeew/kasumi)
+
